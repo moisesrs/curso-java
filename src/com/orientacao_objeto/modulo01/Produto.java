@@ -1,4 +1,4 @@
-package com.curso.modulo01;
+package com.orientacao_objeto.modulo01;
 
 public class Produto {
     String nome;

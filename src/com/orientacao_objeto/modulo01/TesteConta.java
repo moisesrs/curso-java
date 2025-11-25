@@ -1,4 +1,4 @@
-package com.curso.modulo01;
+package com.orientacao_objeto.modulo01;
 
 public class TesteConta {
     public static void main(String[] args) {
