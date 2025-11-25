@@ -1,3 +1,5 @@
+package com.curso.modulo01;
+
 public class Produto {
     String nome;
     double preco;

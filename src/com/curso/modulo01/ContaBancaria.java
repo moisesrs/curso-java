@@ -1,3 +1,5 @@
+package com.curso.modulo01;
+
 public class ContaBancaria {
     // Atributos
     String titular;

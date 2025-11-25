@@ -1,3 +1,5 @@
+package com.curso.modulo01;
+
 public class Retorno {
     private int qtde;
     private String msg;

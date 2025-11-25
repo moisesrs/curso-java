@@ -1,3 +1,5 @@
+package com.curso.modulo01;
+
 public class TesteConta {
     public static void main(String[] args) {
         // Criando uma conta
