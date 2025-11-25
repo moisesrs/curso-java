@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/
+*.iml
+out/
+target/
+
+# Compiled files
+*.class
+*.jar
+*.war
+
+# OS
+.DS_Store
+Thumbs.db
+
+### VS Code ###
+.vscode/
+
