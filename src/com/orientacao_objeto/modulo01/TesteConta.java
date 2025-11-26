@@ -7,7 +7,7 @@ public class TesteConta {
 
         // Usando os métodos
         conta.exibirInfo();
-        conta.depositar(1000.00);
+        conta.depositar(15000.00);
         conta.sacar(300.00);
         conta.exibirInfo();
 
